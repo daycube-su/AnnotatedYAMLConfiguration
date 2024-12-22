@@ -23,9 +23,8 @@
 
     <distributionManagement>
         <repository>
-            <id>r1</id>
-            <name>Leymooo's repo</name>
-            <url>https://maven.leymooo.me/repository/public/</url>
+            <id>repo.daycube.su</id>
+            <url>https://repo.daycube.su/releases</url>
         </repository>
     </distributionManagement>
 
